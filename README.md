@@ -53,6 +53,7 @@ Each folder contains code and files for a specific experiment, named accordingly
 
 
 git clone https://github.com/NivasMaturi/Skill-Development-Course.git
+
 cd Skill-Development-Course
 
 
@@ -81,6 +82,7 @@ Use **VS Code** or any IDE of your choice to explore each folder.
 ## Author
 
 **M Nivas**
+
 Passionate about full-stack development and building impactful projects with modern web technologies.
 
 
