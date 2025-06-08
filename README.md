@@ -37,31 +37,40 @@ Chart.js (Data Visualization)
 
 **How to Use This Repository**
 **1. Clone the Repository**
+
 terminal-code
 git clone https://github.com/NivasMaturi/Skill-Development-Course.git
 cd Skill-Development-Course
+
 **2. Open Specific Experiment**
+
 Use VS Code or any IDE of your choice to explore each folder.
+
 **3. Run Web Projects**
+
 • Open `index.html` directly in a browser *(for HTML/CSS/JS tasks)*
 • Use `npm`/`node` for NodeJS experiments
 • Use `python manage.py runserver` for Django apps
 • Use `javac`/`java` for Java-based tasks
 
 **External Tools & APIs Used**
+
 • OpenWeatherMap.org – For real-time weather data
 • Chart.js – For data visualization (React & Django)
 • MySQL / Oracle DB – For backend Java persistence
 • JWT – For API authentication in Node.js
 
 **Author**
+
 M Nivas
 Passionate about full-stack development and building impactful projects with modern web technologies.
 
 **Suggestions**
+
 • Beginners: Start with Experiments 1–4 to get comfortable with HTML/CSS/JS
 • Intermediate: Try Experiments 5–10 to build your backend skills
 • Advanced: Explore React and Django projects (11–16)
 
 **License**
+
 This repository is open for learning and educational use.
