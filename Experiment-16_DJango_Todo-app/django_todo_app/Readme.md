@@ -127,4 +127,3 @@ This project is **open-source** and free to use.
 • GitHub: [https://github.com/NivasMaturi](https://github.com/NivasMaturi)
 
 ---
-![image](https://github.com/user-attachments/assets/56e83612-608f-49e7-b0f5-5ff2aa9b2035)
